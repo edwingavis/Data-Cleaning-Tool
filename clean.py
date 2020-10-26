@@ -2,7 +2,7 @@
 """
 Created on Tue Aug  7 13:00:38 2018
 
-@author: egavis
+@author: jgavis
 """
 import itertools
 import math
