@@ -2,7 +2,7 @@
 """
 Created on Tue Aug  7 09:44:15 2018
 
-@author: egavis
+@author: jgavis
 """
 
 import os
